@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-login-website",
+  "version": "1.0.0",
+  "description": "Login to website by buck of username/password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangclc4/puppeteer-login-website.git"
+  },
+  "author": "Hoang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangclc4/puppeteer-login-website/issues"
+  },
+  "homepage": "https://github.com/hoangclc4/puppeteer-login-website#readme",
+  "dependencies": {
+    "puppeteer": "^14.2.1",
+    "shelljs": "^0.8.5"
+  }
+}
